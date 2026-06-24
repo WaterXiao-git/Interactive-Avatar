@@ -1,4 +1,13 @@
-.env
-data/
+node_modules/
 __pycache__/
 *.pyc
+.env
+*.db
+*.db.bak*
+*.glb
+*.fbx
+*.wav
+*.pth
+dist/
+.ruff_cache/
+backend/assets/*
